@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706487721 source:c:\users\dell\desktop\ens lp\programms c\devoirnonsurveille\devoirnonsurveille\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
